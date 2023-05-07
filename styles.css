@@ -9,8 +9,6 @@ body :hover{
 div{
     height: 300%;
      background-color: rgb(230, 215, 10);
-     width: 100%;0, 0, 0
-    
 }
 div:hover{
     background-color: rgb(15, 230, 230);
