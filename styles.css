@@ -14,9 +14,3 @@ div:hover{
     background-color: rgb(15, 230, 230);
     transform: rotate(360)
 }
-p{
-    color: rgb(15, 230, 230);
-}
-p :hover{
-    color: rgb(230, 215, 10);
-}
