@@ -1,16 +1,9 @@
 
 body{
-    background-color: rgb(15, 230, 230);
-}
-body :hover{
-    background-color: rgb(230, 215, 10);
+    background-color: rgb(15, 230, 54);
 }
 
 div{
     height: 300%;
-     background-color: rgb(230, 215, 10);
-}
-div:hover{
-    background-color: rgb(15, 230, 230);
-    transform: rotate(360)
+     background-color: rgb(0, 251, 255);
 }
